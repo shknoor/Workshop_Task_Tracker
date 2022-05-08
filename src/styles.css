@@ -1,0 +1,35 @@
+.container {
+  background-color: goldenrod;
+}
+
+.h4 {
+  border: 20px;
+  color: orangered;
+}
+
+.task-container {
+  border-radius: 40px;
+  box-shadow: 20px;
+  background-color: greenyellow;
+  width: 42%;
+  height: 500px;
+  display: inline-block;
+  margin: 20px;
+  padding: 20px;
+}
+
+.task-card {
+  background-color: green;
+  margin-bottom: 20px;
+  border-radius: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+.complete-btn {
+  background-color: #6666ff;
+  color: white;
+  border-radius: 5px;
+  padding: 10px;
+}
